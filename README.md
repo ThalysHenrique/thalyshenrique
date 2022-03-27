@@ -1,6 +1,6 @@
 ### Hi, I'm Thalys Henrique, are you okay?
 
-- 🌱 I’m currently learning HTML5, CSS3, Python and Django
+- 🌱 I’m currently learning HTML5, CSS3 and Python 🚀
 - 👯 I’m looking to collaborate on Mobility urban creating a app for help the population for  looking city parking spaces
 - 📫 How to reach me: E-mail: thalys_henrique@outlook.com | Linkedin: www.linkedin.com/in/thalyshenrique7
 - ⚡ Fun fact: I'm a lover of area of computation, initialing studies in programmation, currently studying system analysis and development. I'm very disciplined  and focusing in my objectives, in future want to be working in the area of technology 💻📚
