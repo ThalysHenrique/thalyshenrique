@@ -1,9 +1,8 @@
 ### Hi, I'm Thalys Henrique, are you okay?
 
-- 🌱 I’m currently learning HTML5, CSS3 and Python 🚀
-- 👯 I’m looking to collaborate on Mobility urban creating a app for help the population for  looking city parking spaces
-- 📫 How to reach me: Linkedin: www.linkedin.com/in/thalyshenrique7
-- ⚡ Fun fact: I'm a lover of area of computation, initialing studies in programmation, currently studying system analysis and development. I'm very disciplined  and focusing in my objectives, in future want to be working in the area of technology 💻📚
+- 🌱 Estou aprendendo HTML, CSS e Python 🚀
+- 📫 Contato - Linkedin: www.linkedin.com/in/thalyshenrique7
+- ⚡ Sobre mim: Sou um amante da área da computação, gosto de sair da rotina, sou bastante disciplinado e focado em meus objetivos, estou sempre buscando evoluir cada vez mais, acredito que o maior poder que você pode ter é o conhecimento "o papiro liberta". 💻📚
 
 <div align="center">
   <a href="https://github.com/ThalysHenrique">
