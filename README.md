@@ -1,4 +1,4 @@
-### Seja bem-vindo ao meu perfil!
+### Sejam bem-vindos ao meu perfil!
 
 - 🌱 Estou aprendendo HTML, CSS e Python 🚀
 - 📫 Contato - Linkedin: www.linkedin.com/in/thalyshenrique7
