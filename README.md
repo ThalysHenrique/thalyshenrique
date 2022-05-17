@@ -1,6 +1,6 @@
 ### Sejam bem-vindos ao meu perfil!
 
-- 🌱 Estou aprendendo HTML, CSS e Python 🚀
+- 🌱 Estou aprendendo HTML, CSS, Python e Django 🚀
 - 📫 Contato - Linkedin: www.linkedin.com/in/thalyshenrique7
 - ⚡ Sobre mim: Sou um amante da área da computação, gosto de sair da rotina, sou bastante disciplinado e focado em meus objetivos, estou sempre buscando evoluir cada vez mais, acredito que o maior poder que você pode ter é o conhecimento "o papiro liberta". 💻📚
 
